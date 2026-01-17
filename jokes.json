@@ -5707,5 +5707,23 @@
     "safe": false,
     "id": 321,
     "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "How do you make your wife cry during sex?",
+    "delivery": "Call her and tell her about it!",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 322,
+    "lang": "en"
   }
 ]
