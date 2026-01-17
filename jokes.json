@@ -5689,5 +5689,23 @@
     "safe": false,
     "id": 320,
     "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between Jesus and painting of Jesus?",
+    "delivery": "It only takes one nail to hang the painting!",
+    "flags": {
+      "nsfw": false,
+      "religious": true,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 321,
+    "lang": "en"
   }
 ]
