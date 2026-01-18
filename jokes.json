@@ -5725,5 +5725,95 @@
     "safe": false,
     "id": 322,
     "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "A dark sense of humor is like a pair of functioning legs.",
+    "delivery": "Not everybody has one.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 323,
+    "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Where did the little girl go during the explosion?",
+    "delivery": "Everywhere!",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 324,
+    "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Have you ever tried Ethiopian food?",
+    "delivery": "Neither have they.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 325,
+    "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do gay men call an upside down chair?",
+    "delivery": "A table for 4!",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": true,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 326,
+    "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What does a cannibal do after eating his vegetables?",
+    "delivery": "Goes on eBay to see how much he can sell the wheelchair for.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 327,
+    "lang": "en"
   }
 ]
