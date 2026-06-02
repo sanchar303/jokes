@@ -5851,5 +5851,23 @@
     "lang": "en",
     "setup": "What's small, red, and screaming?",
     "delivery": "A skinned baby rolling in salt"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 330,
+    "safe": false,
+    "lang": "en",
+    "setup": "What’s the difference between a baby and a sweet potato?",
+    "delivery": "About 140 calories."
   }
 ]
