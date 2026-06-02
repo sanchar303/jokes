@@ -5698,7 +5698,7 @@
       "nsfw": false,
       "religious": true,
       "political": false,
-      "racist": true,
+      "racist": false,
       "sexist": false,
       "explicit": true
     },
