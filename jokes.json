@@ -5833,5 +5833,23 @@
     "safe": false,
     "id": 328,
     "lang": "en"
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 329,
+    "safe": false,
+    "lang": "en",
+    "setup": "What's small, red, and screaming?",
+    "delivery": "A skinned baby rolling in salt"
   }
 ]
