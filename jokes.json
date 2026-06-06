@@ -2353,19 +2353,19 @@
     "error": false,
     "category": "Misc",
     "type": "twopart",
-    "setup": "Why does Beyonce sing \"to the left, to the left\"?",
-    "delivery": "Because women don't have rights.",
     "flags": {
       "nsfw": false,
       "religious": false,
       "political": false,
       "racist": false,
       "sexist": true,
-      "explicit": false
+      "explicit": true
     },
     "id": 133,
     "safe": false,
-    "lang": "en"
+    "lang": "en",
+    "setup": "Why does Beyonce sing \"to the left, to the left\"?",
+    "delivery": "Because women don't have rights."
   },
   {
     "error": false,
