@@ -5941,5 +5941,23 @@
     "lang": "en",
     "setup": "Why can't orphans play baseball?",
     "delivery": "They don't know where home is."
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 335,
+    "safe": false,
+    "lang": "en",
+    "setup": "What do you call a black guy flying an aeroplane?",
+    "delivery": "The pilot, you racist fuck."
   }
 ]
