@@ -5905,5 +5905,23 @@
     "lang": "en",
     "setup": "What do 9 out of 10 people enjoy?",
     "delivery": "Gang rape."
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 333,
+    "safe": false,
+    "lang": "en",
+    "setup": "What's the difference between a phone and a black person?",
+    "delivery": "A phone is actually useful."
   }
 ]
