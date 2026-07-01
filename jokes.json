@@ -5923,5 +5923,23 @@
     "lang": "en",
     "setup": "What's the difference between a phone and a black person?",
     "delivery": "A phone is actually useful."
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 334,
+    "safe": false,
+    "lang": "en",
+    "setup": "Why can't orphans play baseball?",
+    "delivery": "They don't know where home is."
   }
 ]
