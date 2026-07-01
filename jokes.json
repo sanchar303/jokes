@@ -5887,5 +5887,23 @@
     "lang": "en",
     "setup": "How long does a black woman take to throw away the garbage?",
     "delivery": "Nine months."
+  },
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 332,
+    "safe": false,
+    "lang": "en",
+    "setup": "What do 9 out of 10 people enjoy?",
+    "delivery": "Gang rape."
   }
 ]
