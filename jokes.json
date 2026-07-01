@@ -5959,5 +5959,23 @@
     "lang": "en",
     "setup": "What do you call a black guy flying an aeroplane?",
     "delivery": "The pilot, you racist fuck."
+  },
+  {
+    "error": false,
+    "category": "Misc",
+    "type": "twopart",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 336,
+    "safe": false,
+    "lang": "en",
+    "setup": "What's worse than running with scissors?",
+    "delivery": "Scissoring with runs."
   }
 ]
